@@ -1,5 +1,7 @@
 this is my first commit
-
+<<<<<<< HEAD
 this is feature1
 
+=======
 this is feature2
+>>>>>>> feature2
